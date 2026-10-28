@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Enterprise Hotel Management System",
+  "description": "Comprehensive hotel operations platform featuring real-time room availability matrix, guest check-in/out folios, booking engine, payment processing, housekeeping dispatch, RevPAR analytics, and full REST & MongoDB simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
